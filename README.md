@@ -1,6 +1,8 @@
 # sciconf
 Система управления сайтом научно-технической конференции
 
+Важно: один сайт - одна конференция (но не несколько разных конференций на одном сайте, т.е. не агрегатор)
+
 С чего начать:
 1. Найти и проанализировать готовые решения, сформировать требования, принять решение о необходимости разработки.
 
@@ -11,5 +13,6 @@ OK
 - https://sourceforge.net/projects/e-conference-ms/
 - https://sourceforge.net/projects/yacomas/
 - https://www.conftool.net/en/features.html
-Also]
+
+Also
 - http://edutechwiki.unige.ch/en/Conference_management_software#Free_conference_management_systems
