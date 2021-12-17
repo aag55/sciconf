@@ -1,3 +1,9 @@
 <?php
-echo "hello, world! Testing NetBeans with GIT";
+//require_once "common.php";
+
+define ("STATUS", "announced -> active -> finished -> publiched");
+
+echo "<p>".STATUS."</p>";
+        
+
 ?>
